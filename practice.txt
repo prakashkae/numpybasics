@@ -1,0 +1,3 @@
+hi everyone
+ we are learning python java handling
+ this is java handling practice

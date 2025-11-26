@@ -1,0 +1,13 @@
+lis = [ 1,2,2,1]
+
+
+
+eis = lis.copy()
+
+eis.reverse()
+
+if(eis==lis):
+
+    print("palindrome")
+else:
+    print("not palindrome")    
