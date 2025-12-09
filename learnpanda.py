@@ -26,5 +26,11 @@ df = pd.read_csv('pokemon_data.csv')
     #making changes in data
 
 #print(df.head(5))    
-df['Total'] = df['HP'] + df['Attack'] + df['Defense'] + df['Sp. Atk'] + df['Sp. Def'] + df['Speed']
-print(df['Total'])
+#df['Total'] = df['HP'] + df['Attack'] + df['Defense'] + df['Sp. Atk'] + df['Sp. Def'] + df['Speed']
+#print(df['Total'])
+
+
+
+#for saving
+
+df.to_csv('modified.csv',index=False)
