@@ -10,3 +10,15 @@ plt.show()
 # just for update
 
 print(df.info())
+
+#for update again
+
+print(df.isnull().sum())
+
+# for update again
+
+print(df['director'].value_counts())
+
+# for update again
+
+print(df['cast'].value_counts())
