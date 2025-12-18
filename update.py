@@ -22,3 +22,7 @@ print(df['director'].value_counts())
 # for update again
 
 print(df['cast'].value_counts())
+#for update again
+
+print(df['country'].value_counts())
+
