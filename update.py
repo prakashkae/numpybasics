@@ -26,3 +26,7 @@ print(df['cast'].value_counts())
 
 print(df['country'].value_counts())
 
+
+#for update again
+
+print(df['listed_in'].value_counts())
