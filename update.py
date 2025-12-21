@@ -29,4 +29,12 @@ print(df['country'].value_counts())
 
 #for update again
 
-print(df['listed_in'].value_counts())
+print(df['genres'].value_counts())
+
+#for update again
+
+print(df['rating'].value_counts())
+
+#for update again
+
+print(df['date_added'].value_counts())
