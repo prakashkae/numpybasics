@@ -17,3 +17,4 @@ bars[2].set_hatch('o')
 bars[3].set_hatch('*')
 bars[4].set_hatch('\\')
 plt.show()
+

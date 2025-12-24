@@ -6,3 +6,4 @@ df = pd.read_csv('netflix.csv')
 print(df.head())
 
 plt.show()
+
