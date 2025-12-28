@@ -1,7 +1,6 @@
 1. What is machine learning ?
 
-# Field of study that gives computer the ability to learn without being ecplicitly programed (definition by author Andrew Ng)
-
+# Machine learning is the science of getting computers to learn without being explicitly programmed.
 
 2. Application of machine learning ?
 
